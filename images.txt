@@ -1,2 +1,3 @@
 alpine:latest
 nginx:latest
+kong:3.6
